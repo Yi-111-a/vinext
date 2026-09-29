@@ -1,5 +1,15 @@
 # @vinext/cloudflare
 
+## 1.0.1
+
+### Bug Fixes
+
+- **Cloudflare:** support colon cache tags in KV (#3569)
+
+### Contributors
+
+- @james-elicx
+
 ## 1.0.0
 
 ### Features
